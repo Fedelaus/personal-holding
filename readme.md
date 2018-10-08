@@ -1,6 +1,6 @@
 # Liam Canetti personal holding page
 
-This is a project for my personal holdong page.
+This is a project for my personal holding page.
 
 ## Getting Started
 
