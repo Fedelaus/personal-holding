@@ -1,0 +1,17 @@
+{
+  "name": "personal-holding",
+  "description": "Personal holding page",
+  "version": "1.0.1",
+  "author": {
+    "email": "git@liamcanetti.co.uk",
+    "name": "Liam Canetti",
+    "url": "https://liamcanetti.co.uk/"
+  },
+  "dependencies": {
+    "standard-version": "^4.4.0"
+  },
+  "license": "MIT",
+  "scripts": {
+    "release": "standard-version"
+  }
+}
